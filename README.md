@@ -1,8 +1,6 @@
 # bootstrap-block-grid
 real block grid for bootstrap
 
-Author: Jonathan Hornung ([JohnnyTheTank](https://github.com/JohnnyTheTank))
-
 ## usage
 
 1. Install:
