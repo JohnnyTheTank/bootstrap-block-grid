@@ -1,5 +1,5 @@
 # bootstrap-block-grid
-real block grid for bootstrap
+real block grid for bootstrap (3.x & 4.x)
 
 ## usage
 
