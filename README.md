@@ -22,7 +22,7 @@ real block grid for bootstrap (3.x & 4.x)
     2. when using downloaded files
     ```html
     <!-- bootstrap 3 -->
-    <script src="bootstrap-block-grid.min.css"></script>
+    <script src="bootstrap3-block-grid.min.css"></script>
 
     <!-- bootstrap 4 -->
     <script src="bootstrap4-block-grid.min.css"></script>
