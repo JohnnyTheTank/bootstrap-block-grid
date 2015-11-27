@@ -1,5 +1,5 @@
 # bootstrap-block-grid
-real block grid for bootstrap 3
+real block grid for bootstrap
 
 ## usage
 
@@ -12,12 +12,20 @@ real block grid for bootstrap 3
 2. Add files to your html
     1. when using bower
     ```html
-    <script src="bower_components/bootstrap-block-grid/dist/bootstrap-block-grid.min.css"></script>
+    <!-- bootstrap 3 -->
+    <script src="bower_components/bootstrap-block-grid/dist/bootstrap3-block-grid.min.css"></script>
+
+    <!-- bootstrap 4 -->
+    <script src="bower_components/bootstrap-block-grid/dist/bootstrap4-block-grid.min.css"></script>
     ```
 
     2. when using downloaded files
     ```html
+    <!-- bootstrap 3 -->
     <script src="bootstrap-block-grid.min.css"></script>
+
+    <!-- bootstrap 4 -->
+    <script src="bootstrap4-block-grid.min.css"></script>
     ```
 
 3. Sample Markup

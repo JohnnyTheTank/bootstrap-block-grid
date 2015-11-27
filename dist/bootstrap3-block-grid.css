@@ -4,15 +4,17 @@
   margin: -15px;
   padding: 0;
 }
-[class*="block-grid-"]:before {
-  content: " ";
-  display: table;
-}
+
+[class*="block-grid-"]:before,
 [class*="block-grid-"]:after {
   content: " ";
   display: table;
+}
+
+[class*="block-grid-"]:after {
   clear: both;
 }
+
 [class*="block-grid-"] > * {
   display: inline;
   margin: 0;

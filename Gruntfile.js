@@ -9,7 +9,8 @@ module.exports = function(grunt) {
                     sourcemap: 'none'
                 },
                 files: {
-                    'dist/bootstrap-block-grid.min.css': 'src/bootstrap-block-grid.scss'
+                    'dist/bootstrap3-block-grid.min.css': 'src/bootstrap3-block-grid.scss',
+                    'dist/bootstrap4-block-grid.min.css': 'src/bootstrap4-block-grid.scss'
                 }
             },
             dist: {
@@ -18,8 +19,8 @@ module.exports = function(grunt) {
                     sourcemap: 'none'
                 },
                 files: {
-                    'src/bootstrap-block-grid.css': 'src/bootstrap-block-grid.scss',
-                    'dist/bootstrap-block-grid.css': 'src/bootstrap-block-grid.scss'
+                    'dist/bootstrap3-block-grid.css': 'src/bootstrap3-block-grid.scss',
+                    'dist/bootstrap4-block-grid.css': 'src/bootstrap4-block-grid.scss'
                 }
             }
 
