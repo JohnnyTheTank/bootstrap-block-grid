@@ -1,6 +1,9 @@
 # bootstrap-block-grid
 real block grid for bootstrap (3.x & 4.x)
 
+## demo
+[demo on plnkr](http://plnkr.co/edit/qkyOlC?p=preview)
+
 ## usage
 
 1. Install:
