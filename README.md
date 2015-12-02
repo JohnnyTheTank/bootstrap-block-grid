@@ -1,5 +1,5 @@
 # bootstrap-block-grid
-block grid sass & css library for [twitter bootstrap](https://github.com/twbs/bootstrap) (3.x & 4.x), based on the native [zurb foundation feature](http://foundation.zurb.com/sites/docs/v/5.5.3/components/block_grid.html)
+**block grid** library (css & sass) for [twitter bootstrap](https://github.com/twbs/bootstrap) (3.x & 4.x), based on the native [zurb foundation feature](http://foundation.zurb.com/sites/docs/v/5.5.3/components/block_grid.html)
 
 ## demo
 [demo on plnkr](http://plnkr.co/edit/qkyOlC?p=preview)
