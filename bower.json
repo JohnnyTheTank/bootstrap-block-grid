@@ -6,7 +6,7 @@
   ],
   "version": "1.1.1",
   "description": "block grid for bootstrap",
-  "main": "dist/bootstrap-block-grid.min.css",
+  "main": "dist/bootstrap3-block-grid.min.css",
   "moduleType": [
     "globals"
   ],
