@@ -1,5 +1,5 @@
 # bootstrap-block-grid
-**block grid** library (css & sass) for [twitter bootstrap](https://github.com/twbs/bootstrap) (3.x & 4.x), based on the native [zurb foundation feature](http://foundation.zurb.com/sites/docs/v/5.5.3/components/block_grid.html)
+**block grid** library (css & sass) for [twitter bootstrap](https://github.com/twbs/bootstrap) (version 3 & 4), based on the native [zurb foundation feature](http://foundation.zurb.com/sites/docs/v/5.5.3/components/block_grid.html)
 
 ## demo
 [demo on plnkr](http://plnkr.co/edit/qkyOlC?p=preview)
@@ -10,7 +10,7 @@
     1. via [bower](http://bower.io/)
         `bower install --save bootstrap-block-grid`
 
-    2. via downloaded files
+    2. via [downloaded files](https://github.com/JohnnyTheTank/bootstrap-block-grid/zipball/master)
 
 2. Add files to your html
     1. when using bower
