@@ -6,12 +6,10 @@
 
 ## usage
 
-1. Install:
-    1. via [bower](http://bower.io/)
-        `bower install --save bootstrap-block-grid`
-
-    2. via [downloaded files](https://github.com/JohnnyTheTank/bootstrap-block-grid/zipball/master)
-
+1. Install via either [bower](http://bower.io/), [npm](https://www.npmjs.com/) or downloaded files:
+    1. `bower install --save bootstrap-block-grid`
+    2. `npm install --save bootstrap-block-grid`
+    3. download [bootstrap-block-grid.zip](https://github.com/JohnnyTheTank/bootstrap-block-grid/zipball/master)
 2. Add files to your html
     1. when using bower
     ```html
@@ -22,7 +20,16 @@
     <script src="bower_components/bootstrap-block-grid/dist/bootstrap4-block-grid.min.css"></script>
     ```
 
-    2. when using downloaded files
+    2. when using npm
+    ```html
+    <!-- bootstrap 3 -->
+    <script src="node_modules/bootstrap-block-grid/dist/bootstrap3-block-grid.min.css"></script>
+
+    <!-- bootstrap 4 -->
+    <script src="node_modules/bootstrap-block-grid/dist/bootstrap4-block-grid.min.css"></script>
+    ```
+
+    3. when using downloaded files
     ```html
     <!-- bootstrap 3 -->
     <script src="bootstrap3-block-grid.min.css"></script>
