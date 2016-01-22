@@ -93,5 +93,5 @@
     - `block-grid-lg-12`
 
 
-# licence
+# license
 MIT
