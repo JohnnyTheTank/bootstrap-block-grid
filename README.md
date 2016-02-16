@@ -1,6 +1,9 @@
 # bootstrap-block-grid
 **block grid** library (css & sass) for [twitter bootstrap](https://github.com/twbs/bootstrap) (version 3 & 4), based on the native [zurb foundation feature](http://foundation.zurb.com/sites/docs/v/5.5.3/components/block_grid.html)
 
+[![npm version](https://badge.fury.io/js/bootstrap-block-grid.png)](https://badge.fury.io/js/bootstrap-block-grid)
+[![Bower version](https://badge.fury.io/bo/bootstrap-block-grid.png)](https://badge.fury.io/bo/bootstrap-block-grid)
+
 ## demo
 [demo on plnkr](http://plnkr.co/qkyOlC)
 
