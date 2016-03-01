@@ -34,9 +34,9 @@
     3. when using CDN files from jsdelivr
     ```html
     <!-- bootstrap 3 -->
-    <script src="//cdn.jsdelivr.net/bootstrap.block-grid/1.1.4/bootstrap3-block-grid.min.css"></script>
+    <script src="//cdn.jsdelivr.net/bootstrap.block-grid/latest/bootstrap3-block-grid.min.css"></script>
     <!-- bootstrap 4 -->
-    <script src="//cdn.jsdelivr.net/bootstrap.block-grid/1.1.4/bootstrap4-block-grid.min.css"></script>
+    <script src="//cdn.jsdelivr.net/bootstrap.block-grid/latest/bootstrap4-block-grid.min.css"></script>
     ```
 
     4. when using downloaded files
