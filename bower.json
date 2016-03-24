@@ -24,8 +24,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "bootstrap": "*"
-  }
+  ]
 }
