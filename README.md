@@ -4,9 +4,6 @@
 [![npm version](https://badge.fury.io/js/bootstrap-block-grid.png)](https://badge.fury.io/js/bootstrap-block-grid)
 [![Bower version](https://badge.fury.io/bo/bootstrap-block-grid.png)](https://badge.fury.io/bo/bootstrap-block-grid)
 
-## demo
-[demo on plnkr](http://plnkr.co/qkyOlC)
-
 ## usage
 
 1. Install via either [bower](http://bower.io/), [npm](https://www.npmjs.com/), CND or downloaded files:
